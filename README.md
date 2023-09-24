@@ -19,6 +19,4 @@
 
 - ### Exercice 3
 
-  - [ ] Modify the previous program so that it reads from the keyboard a series of positive or zero real
-  - [ ] numbers (corresponding to notes), ending in the value -1, and calculates the Olympic average of
-  - [ ] these values, i.e. the average of the scores regardless of the highest or lowest score.
+  - [ ] Modify the previous program so that it reads from the keyboard a series of positive or zero real numbers (corresponding to notes), ending in the value -1, and calculates the Olympic average of these values, i.e. the average of the scores regardless of the highest or lowest score.
