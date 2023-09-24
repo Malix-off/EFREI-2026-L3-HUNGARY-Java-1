@@ -1,4 +1,4 @@
-# Java Homework
+# EFREI 2026 L3 HUNGARY Java 1 (24/09/23)
 
 ## [Deadline](https://github.com/Malix-Off/EFREI-2026-L3-HUNGARY-Java-1/milestone/1)
 
